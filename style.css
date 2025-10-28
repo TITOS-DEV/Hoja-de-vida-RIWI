@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+}
+
+.imagen{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
